@@ -19,4 +19,6 @@ AarushSawhney - Aarush
 
 QwertyBobberson - Chris
 
+mazinouruk - Minjae
+
 This is a private repository, so the names will only be shown to people who were invited here.
